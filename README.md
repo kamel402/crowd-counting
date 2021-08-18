@@ -9,7 +9,7 @@ to use multiple gpus.
 So in this repository we added the missing utility to speed the training process, and to improve the accuracy of the model.  
 
 ## Contributors
-[Kamel Gerado](https://github.com/kamel402), [Taif Alwafi](https://github.com/TaifAlwafi), [Arwa Komo](https://github.com/arwamk), [Azzam Alturkistani](https://github.com/azamasim), Reem Alruqi, Waad Alruqi, Sundus Bin siddiq, Amjad Alotaibi.
+[Kamel Gerado](https://github.com/kamel402), [Taif Alwafi](https://github.com/TaifAlwafi), [Arwa Komo](https://github.com/arwamk), [Azzam Alturkistani](https://github.com/azamasim), [Sundus Bin siddiq](https://github.com/sundosBs), Reem Alruqi, Waad Alruqi, Amjad Alotaibi.
 
 
 ![cover](img/cover.png)  
