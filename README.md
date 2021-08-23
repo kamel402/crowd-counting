@@ -4,8 +4,7 @@
 
 This project is about crowd counting and it is also an implementaion of the [CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes](https://arxiv.org/abs/1802.10062) on our private dataset using Pytorch backend with the help of the author's github (https://github.com/leeyeehoo/CSRNet-pytorch).
 
-The previous work on this model has lack of some utility, e.g., there isn't any use of DataParallel or DistributedDataParallel  
-to use multiple gpus.  
+The previous work on this model has lack of some utility, e.g., there isn't any use of DataParallel or DistributedDataParallel to use multiple gpus.  
 So in this repository we added the missing utility to speed the training process, and to improve the accuracy of the model.  
 
 ## Contributors
